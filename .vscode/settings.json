@@ -1,6 +1,5 @@
 {
-    "files.exclude": {
-        "build/risuai": true
-    },
-    "search.useParentIgnoreFiles": false
+    "editor.defaultFormatter": "biomejs.biome",
+    "typescript.preferences.preferTypeOnlyAutoImports": true,
+    "editor.tabSize": 4
 }
