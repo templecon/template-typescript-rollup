@@ -1,5 +1,5 @@
 # How to use:
 ```
-git clone https://github.com/concertypin/template -b typescript-rollup
+git clone https://github.com/templecon/template-typescript-rollup
 pnpm install
 ```
